@@ -1,1 +1,1 @@
-web: gunicorn atributos.wsgi
+web: gunicorn cms.wsgi
