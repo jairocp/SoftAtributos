@@ -146,7 +146,7 @@ NEVERCACHE_KEY = "-o3z9oz6l-bnq&0!_v7iqqj!aq^xhv=9-(z47d2*ksfq8x0!_+"
 DATABASES = {
     "default": {
         # Add "postgresql_psycopg2", "mysql", "sqlite3" or "oracle".
-        "ENGINE": "django.db.backends.",
+        "ENGINE": "django.db.backends.sqlite3",
         # DB name or path to database file if using sqlite3.
         "NAME": "",
         # Not used with sqlite3.
