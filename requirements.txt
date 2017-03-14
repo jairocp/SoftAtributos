@@ -1,1 +1,7 @@
 Mezzanine==4.2.3
+dj-static==0.0.6
+Django==1.10.4
+olefile==0.44
+Pillow==4.0.0
+static3==0.7.0
+gunicorn==19.6.0
