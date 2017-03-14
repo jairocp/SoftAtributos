@@ -135,6 +135,9 @@ AUTHENTICATION_BACKENDS = ("mezzanine.core.auth_backends.MezzanineBackend",)
 # a mode you'd pass directly to os.chmod.
 FILE_UPLOAD_PERMISSIONS = 0o644
 
+SECRET_KEY = "0-t)hr(0ykwag@7fy&^@qq@ww-x&pv$9lxo52sg*aofwd*g$l+"
+NEVERCACHE_KEY = "-o3z9oz6l-bnq&0!_v7iqqj!aq^xhv=9-(z47d2*ksfq8x0!_+"
+
 
 #############
 # DATABASES #
